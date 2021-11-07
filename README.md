@@ -2,9 +2,9 @@
 ***
 > In order to create a Rails web application, you should follow the next steps:
 ---
-  1. Download the zip file https://drive.google.com/file/d/12C1V5D5qZiGG7mRXbz7FthpAmPirKqp-/view?usp=sharing which includes a folder with required files for github, docker and others.
+  1. Download the folder "required_files"
   >
-  2. Open the file in a code editor (VS Code)
+  2. Open the folder in a code editor (VS Code)
   >
   3. Create a .env file and fill it with your github credentials as it is shown:
       - GIT_USER_NAME=my_username
